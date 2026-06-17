@@ -1,9 +1,10 @@
 # Work History — Michel Pomares
 
-Full-stack software developer. This repository preserves a verifiable record of my
-professional contributions over ~11 months on a private company GitLab instance,
-which I no longer have access to. It contains **statistics and summaries only** — no
-source code, proprietary logic, or client-confidential material.
+Full-stack software developer. This repository is a public, verifiable summary of my
+professional work - currently ~11 months of contributions on a private company GitLab
+instance - kept as a portfolio reference for anyone interested in what
+I build. It contains **statistics and summaries only** - no source code, proprietary
+logic, or client-confidential material.
 
 All commit metrics below were produced from local git history with
 `git log --author`, so they reflect only commits authored under my own email.
